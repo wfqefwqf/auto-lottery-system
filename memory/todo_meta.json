@@ -1,0 +1,20 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "获取Supabase认证信息",
+        "details": "使用supabase_auth工具包获取用户的Supabase项目URL和API密钥，为后续开发做准备",
+        "status": "completed",
+        "priority": "high"
+      },
+      "2": {
+        "id": "2",
+        "content": "开发全栈自动抽奖系统",
+        "details": "使用fullstack_website_dev_agent开发完整的抽奖系统，包括：\n- Supabase数据库设计（参与者表、分类表、抽奖记录表）\n- 前端抽奖界面（微软风格UI + 炫酷动画）\n- 管理后台（支持Excel导入导出、分类管理）\n- Github Pages部署配置",
+        "status": "completed",
+        "priority": "high"
+      }
+    }
+  }
+}
